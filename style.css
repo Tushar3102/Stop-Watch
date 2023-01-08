@@ -1,0 +1,34 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Montserrat&family=Ubuntu:ital@1&display=swap"); */
+body {
+  background-color: orange;
+  text-align: center;
+  font-family: "Pacifico", cursive;
+}
+
+h1,
+h2 {
+  color: white;
+  letter-spacing: 10px;
+}
+
+span {
+  color: white;
+  font-size: 45px;
+}
+
+button {
+  width: 100px;
+  height: 60px;
+  background-color: transparent;
+  border: 1px solid white;
+  color: white;
+  font-family: "Pacifico", cursive;
+  margin: 30px;
+  cursor: pointer;
+  transition-duration: 1s;
+}
+
+button:hover {
+  background-color: white;
+  color: black;
+}
